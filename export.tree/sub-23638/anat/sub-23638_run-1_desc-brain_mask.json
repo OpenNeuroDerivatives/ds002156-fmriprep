@@ -1,0 +1,9 @@
+{
+  "RawSources": [
+    "sub-23638/ses-01/anat/sub-23638_ses-01_acq-mpragePURE_run-1_T1w.nii.gz",
+    "sub-23638/ses-02/anat/sub-23638_ses-02_acq-mprage_rec-ORIG_run-1_T1w.nii.gz",
+    "sub-23638/ses-03/anat/sub-23638_ses-03_acq-mprage_rec-ORIG_run-1_T1w.nii.gz",
+    "sub-23638/ses-04/anat/sub-23638_ses-04_acq-mprage_rec-ORIG_run-1_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
